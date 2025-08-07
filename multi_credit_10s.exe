@@ -1,0 +1,17 @@
+
+~5::
+pressCount++
+if (pressCount = 1) {
+    SetTimer, HandleCredits, -10000  ; Attend 10 secondes pour voir s'il y a une seconde pression
+}
+return
+
+HandleCredits:
+if (pressCount = 1) {
+    Send, 55  ; 2 crédits
+}
+else if (pressCount >= 2) {
+    Send, 55555  ; 5 crédits
+}
+pressCount := 0
+return

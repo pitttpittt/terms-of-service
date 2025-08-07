@@ -1,0 +1,107 @@
+cat > ~/Downloads/index.html << EOF
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Conditions d'utilisation</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2em;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2 {
+      color: #005a9c;
+    }
+    footer {
+      margin-top: 3em;
+      font-size: 0.9em;
+      color: #777;
+      text-align: center;
+    }
+    a {
+      color: #005a9c;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Conditions d'utilisation</h1>
+  <p>Bienvenue sur notre application. En utilisant ce service, vous acceptez nos conditions générales d'utilisation.</p>
+  <h2>1. Objet</h2>
+  <p>Ce document décrit les règles et règlements pour l'utilisation de notre site web et de notre application mobile.</p>
+  <h2>2. Acceptation des conditions</h2>
+  <p>En accédant et en utilisant notre service, vous vous engagez à respecter ces conditions. Si vous n'acceptez pas ces termes, veuillez ne pas utiliser notre service.</p>
+  <h2>3. Utilisation du service</h2>
+  <p>Vous vous engagez à utiliser notre service conformément à toutes les lois en vigueur et à ne pas l'exploiter à des fins illégales, abusives ou frauduleuses.</p>
+  <h2>4. Propriété intellectuelle</h2>
+  <p>Tous les contenus présents sur notre plateforme, y compris textes, images, logos et autres éléments, sont protégés par les lois sur la propriété intellectuelle et ne peuvent être utilisés sans notre autorisation écrite préalable.</p>
+  <h2>5. Confidentialité et données personnelles</h2>
+  <p>Nous nous engageons à protéger votre vie privée conformément à notre politique de confidentialité. Veuillez la consulter pour comprendre comment nous collectons et utilisons vos données.</p>
+  <h2>6. Modifications des conditions</h2>
+  <p>Nous nous réservons le droit de modifier ces conditions à tout moment. Les changements seront publiés sur cette page et prendront effet dès leur mise en ligne. Il est de votre responsabilité de consulter régulièrement cette page.</p>
+  <h2>7. Limitation de responsabilité</h2>
+  <p>Nous ne saurions être tenus responsables des dommages directs ou indirects résultant de l'utilisation ou de l'incapacité à utiliser notre service.</p>
+  <h2>8. Contact</h2>
+  <p>Pour toute question ou demande, veuillez nous contacter à <a href="mailto:contact@votredomaine.com">contact@votredomaine.com</a>.</p>
+  <footer>© 2025 Petits Gains Malins</footer>
+</body>
+</html>
+EOF<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Conditions d'utilisation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+            color: #333;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #777;
+            text-align: center;
+        }
+        h1, h2 {
+            color: #005a9c;
+        }
+        a {
+            color: #005a9c;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Conditions d'utilisation</h1>
+    <p>Bienvenue sur notre application. En utilisant ce service, vous acceptez nos conditions générales d'utilisation.</p>
+    <h2>1. Objet</h2>
+    <p>Ce document décrit les règles et règlements pour l'utilisation de notre site web et de notre application mobile.</p>
+    <h2>2. Acceptation des conditions</h2>
+    <p>En accédant et en utilisant notre service, vous vous engagez à respecter ces conditions. Si vous n'acceptez pas ces termes, veuillez ne pas utiliser notre service.</p>
+    <h2>3. Utilisation du service</h2>
+    <p>Vous vous engagez à utiliser notre service conformément à toutes les lois en vigueur et à ne pas l'exploiter à des fins illégales, abusives ou frauduleuses.</p>
+    <h2>4. Propriété intellectuelle</h2>
+    <p>Tous les contenus présents sur notre plateforme, y compris textes, images, logos et autres éléments, sont protégés par les lois sur la propriété intellectuelle et ne peuvent être utilisés sans notre autorisation écrite préalable.</p>
+    <h2>5. Confidentialité et données personnelles</h2>
+    <p>Nous nous engageons à protéger votre vie privée conformément à notre politique de confidentialité. Veuillez la consulter pour comprendre comment nous collectons et utilisons vos données.</p>
+    <h2>6. Modifications des conditions</h2>
+    <p>Nous nous réservons le droit de modifier ces conditions à tout moment. Les changements seront publiés sur cette page et prendront effet dès leur mise en ligne. Il est de votre responsabilité de consulter régulièrement cette page.</p>
+    <h2>7. Limitation de responsabilité</h2>
+    <p>Nous ne saurions être tenus responsables des dommages directs ou indirects résultant de l'utilisation ou de l'incapacité à utiliser notre service.</p>
+    <h2>8. Contact</h2>
+    <p>Pour toute question ou demande, veuillez nous contacter à <a href="mailto:contact@votredomaine.com">contact@votredomaine.com</a>.</p>
+    <footer>© 2025 Petits Gains Malins</footer>
+</body>
+</html>
