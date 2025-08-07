@@ -1,17 +1,3 @@
-
-~5::
-pressCount++
-if (pressCount = 1) {
-    SetTimer, HandleCredits, -10000  ; Attend 10 secondes pour voir s'il y a une seconde pression
-}
-return
-
-HandleCredits:
-if (pressCount = 1) {
-    Send, 55  ; 2 crédits
-}
-else if (pressCount >= 2) {
-    Send, 55555  ; 5 crédits
-}
-pressCount := 0
-return
+version https://git-lfs.github.com/spec/v1
+oid sha256:8adcba9b4b9ae02a42ba1c0125955c4e8c89c8b92f893945b2f5da2daa3bfc87
+size 298
